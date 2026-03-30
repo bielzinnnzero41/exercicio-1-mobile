@@ -1,0 +1,9 @@
+.paragrafo{
+    font-size: 30px;
+    color: red;
+}
+
+#paragrafo-id{
+    font-size: 50px;
+    color: blue;
+}
